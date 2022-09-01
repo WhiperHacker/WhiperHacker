@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WhiperHacker
 - 👀 I’m interested in learning white hat hacking
 - 🌱 I’m currently learning kali linux os
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on learning materials and free virtual labs
 - 📫 How to reach me telegram me: https://t.me/whiper
 
 <!---
